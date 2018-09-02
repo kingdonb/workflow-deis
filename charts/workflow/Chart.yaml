@@ -1,7 +1,0 @@
-name: workflow
-home: https://github.com/teamhephy/workflow
-version: <Will be populated by the ci before publishing the chart>
-description: Hephy Workflow
-maintainers:
-  - name: Team Hephy
-    email: team@teamhephy.com
